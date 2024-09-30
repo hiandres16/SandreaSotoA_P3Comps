@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project 1 Comps</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+    <body>
+     <section class="container">
+    <img src="images/SandreaSotoA_p1Comp01.jpg" alt="Home Page" width= "1920" height="6073">
+    <img src="images/SandreaSotoA_p1Comp02.jpg" alt="Search Page" width= "1920" height="2673">
+    <div class="mobile-comps">
+        <img src="images/SandreaSotoA_p1Comp01_Mobile.jpg" alt="Home Page Mobile" width= "390" height="6208">
+        <img src="images/SandreaSotoA_p1Comp02_mobile.jpg" alt="Search Page Mobile" width= "390" height="2877">
+  </div>
+ </section>       
+</body>
+</html>
+
